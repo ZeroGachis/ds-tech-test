@@ -33,7 +33,7 @@ We would like you to create a Python notebook that will:
 - Clean the data and make it usable for the next steps.
 - Create a machine learning model to predict CO2 emissions for 2021 and 2022 based on the features contained in the dataset.
 
-In this part, the main focus is not on code quality, but we are interested in the logic and methods you use to create, train, and test your model. All this information will be shared during the debriefing session.
+In this part the main focus is not on code quality, we are interested in the logic and methods you use to create, train, and test your model. All these informations will be shared during the debriefing session.
 
 
 ## Deliverable
